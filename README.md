@@ -4,6 +4,8 @@
 
 ------
 >Array  
+1. [java中数组copy的方法使用](https://github.com/tangculijier/algorithm_learn/blob/master/Array/Arrays.copyof.md)
+
 >String  
 >Hash Table  
 >Linked List  
