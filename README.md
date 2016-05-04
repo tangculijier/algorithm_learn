@@ -3,13 +3,13 @@
 借鉴了leetcode上面的分类将自己的算法学习归纳成下面这些
 
 ------
->#Array  
+>##Array  
 1. [java中数组copy的方法使用](https://github.com/tangculijier/algorithm_learn/blob/master/Array/Arrays.copyof.md)
 
->#Int  
+>##Int  
 1.  [判断一个数字是否是回文数](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/Palindrome%20Numbe.md)    
 
->String  
+>##String  
 1.  [String转为Int(atoi)](https://github.com/tangculijier/algorithm_learn/blob/master/String/StringToInt(atoi).md)    
 
 >Hash Table  
