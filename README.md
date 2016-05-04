@@ -6,6 +6,9 @@
 >Array  
 1. [java中数组copy的方法使用](https://github.com/tangculijier/algorithm_learn/blob/master/Array/Arrays.copyof.md)
 
+>Int  
+1.  [判断一个数字是否是回文数](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/Palindrome%20Numbe.md)    
+
 >String  
 >Hash Table  
 >Linked List  
