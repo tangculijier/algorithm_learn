@@ -10,6 +10,8 @@
 1.  [判断一个数字是否是回文数](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/Palindrome%20Numbe.md)    
 
 >String  
+1.  [String转为Int(atoi)](https://github.com/tangculijier/algorithm_learn/blob/master/String/StringToInt(atoi).md)    
+
 >Hash Table  
 >Linked List  
 >Math  
