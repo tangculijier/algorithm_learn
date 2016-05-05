@@ -13,6 +13,7 @@
 
 >##String  
 1.  [String转为Int(atoi)](https://github.com/tangculijier/algorithm_learn/blob/master/String/StringToInt(atoi).md)    
+2.  [翻转元音字母](https://github.com/tangculijier/algorithm_learn/blob/master/String/Reverse-Vowels-of-a-String.md)    
 
 
 
