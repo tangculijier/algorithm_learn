@@ -9,6 +9,7 @@
 3. [将整数数组按就分成2个部分，数组坐标为奇数，右边为偶数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/sperate-odd-and-even.md)
 4. [寻找两个数组的中位数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/median-of-two-sorted-arrays.md)
 5. [数组中寻找出现1次的数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/single-number.md)
+6. [找出数组中最大和的连续字串](https://github.com/tangculijier/algorithm_learn/blob/master/Array/maximum-subarray.md)
 
 reverse-integer
 >##Int  
@@ -26,7 +27,7 @@ reverse-integer
 1.  [判断链表是否有环](https://github.com/tangculijier/algorithm_learn/blob/master/LinkedList/linked-list-cycle.md) 
 
 
->Tree  
+>##Tree  
 1.  [给定n,找出有多少种二叉搜索树](https://github.com/tangculijier/algorithm_learn/blob/master/Tree/unique-binary-search-trees.md)    
 
 
