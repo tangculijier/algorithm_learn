@@ -10,9 +10,10 @@
 4. [寻找两个数组的中位数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/median-of-two-sorted-arrays.md)
 5. [数组中寻找出现1次的数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/single-number.md)
 
-
+reverse-integer
 >##Int  
 1.  [判断一个数字是否是回文数](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/Palindrome%20Numbe.md)    
+2.  [翻转数字](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/reverse-integer.md)    
 
 >##String  
 1.  [String转为Int(atoi)](https://github.com/tangculijier/algorithm_learn/blob/master/String/StringToInt(atoi).md)    
