@@ -7,6 +7,8 @@
 1. [java中数组copy的方法使用](https://github.com/tangculijier/algorithm_learn/blob/master/Array/Arrays.copyof.md)
 2. [合并数组并排序](https://github.com/tangculijier/algorithm_learn/blob/master/Array/Merge-Sorted-Array.md)
 3. [将整数数组按就分成2个部分，数组坐标为奇数，右边为偶数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/sperate-odd-and-even.md)
+4. [寻找两个数组的中位数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/median-of-two-sorted-arrays.md)
+
 
 >##Int  
 1.  [判断一个数字是否是回文数](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/Palindrome%20Numbe.md)    
