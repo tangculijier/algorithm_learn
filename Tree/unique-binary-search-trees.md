@@ -1,36 +1,49 @@
-###给定n,找出有多少种二叉搜索树
-[leetcode](https://leetcode.com/problems/unique-binary-search-trees/)
+###找出数组中最大和的连续字串
+[leetcode](https://leetcode.com/problems/maximum-subarray/)
+>题目  
+>Find the contiguous subarray within an array (containing at least one number) which has the largest sum.
+>For example, given the array [−2,1,−3,4,−1,2,1,−5,4],
+>the contiguous subarray [4,−1,2,1] has the largest sum = 6.
 
->题目
->Given n, how many structurally unique BST's (binary search trees) that store values 1...n?
-For example,
-Given n = 3, there are a total of 5 unique BST's.
-   1         3     3      2      1
-    \       /     /      / \      \
-     3     2     1      1   3      2
-    /     /       \                 \
-   2     1         2                 3
->
-
----
-####解法
-递归
+----
+####解法1:
+暴力搜索！
 ```java
-public class Solution 
+public static int maxSubArray(int[] A) 
 {
-    public int numTrees(int n)
-     {
-        if(n==0||n==1)
-        {
-	         return 1;
-        }
-        int res=0;
-        for(int i=1;i<=n;i++)
-        {
-            res+=numTrees(i-1)*numTrees(n-i);
-        }
-        return res;
-    }
+            int max=A[0];
+            for(int i=0;i<A.length;i++)
+            {
+                int sum=0;
+                for(int j=i;j<A.length;j++)
+                {
+                    sum+=A[j];
+                    if(sum>max)
+                    {
+	                     max=sum;
+					}                       
+            }
+                
+         return max;
+      }
+```
+####解法2:
+如果和<0以后就重新算。
+```java
+public static int maxSubArray(int[] A) 
+{
+         int max=A[0];
+         int sum=0;
+         for(int i=0;i<A.length;i++)
+         {
+             sum+=A[i];
+             if(sum>max)
+                 max=sum;
+             
+             if(sum<0)
+             sum=0;
+         }
+         return max;
 }
 ```
 
