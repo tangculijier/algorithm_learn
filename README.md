@@ -10,7 +10,9 @@
 4. [寻找两个数组的中位数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/median-of-two-sorted-arrays.md)
 5. [数组中寻找出现1次的数](https://github.com/tangculijier/algorithm_learn/blob/master/Array/single-number.md)
 6. [找出数组中最大和的连续字串](https://github.com/tangculijier/algorithm_learn/blob/master/Array/maximum-subarray.md)
-6. [卖股票的最佳时间](https://github.com/tangculijier/algorithm_learn/blob/master/Array/best-time-to-buy-and-sell-stock.md)
+7. [卖股票的最佳时间(只可交易一次)](https://github.com/tangculijier/algorithm_learn/blob/master/Array/best-time-to-buy-and-sell-stock.md)
+8. [卖股票的最佳时间(可交易多次)](https://github.com/tangculijier/algorithm_learn/blob/master/Array/best-time-to-buy-and-sell-stock-ii.md)
+
 
 >##Int  
 1.  [判断一个数字是否是回文数](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/Palindrome%20Numbe.md)    

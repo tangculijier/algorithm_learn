@@ -1,4 +1,4 @@
-###卖股票的最佳时间
+###卖股票的最佳时间(只可交易一次)
 [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 >题目：
 >给出一个月的股票价格（数组形式）。
