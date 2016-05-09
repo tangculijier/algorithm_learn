@@ -12,8 +12,6 @@
 6. [找出数组中最大和的连续字串](https://github.com/tangculijier/algorithm_learn/blob/master/Array/maximum-subarray.md)
 6. [卖股票的最佳时间](https://github.com/tangculijier/algorithm_learn/blob/master/Array/best-time-to-buy-and-sell-stock.md)
 
-
-reverse-integer
 >##Int  
 1.  [判断一个数字是否是回文数](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/Palindrome%20Numbe.md)    
 2.  [翻转数字](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/reverse-integer.md)    
