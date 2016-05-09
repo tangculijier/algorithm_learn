@@ -15,6 +15,7 @@ reverse-integer
 >##Int  
 1.  [判断一个数字是否是回文数](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/Palindrome%20Numbe.md)    
 2.  [翻转数字](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/reverse-integer.md)    
+2.  [将数字转成罗马数字](https://github.com/tangculijier/algorithm_learn/blob/master/Integer/integer-to-roman.md)    
 
 >##String  
 1.  [String转为Int(atoi)](https://github.com/tangculijier/algorithm_learn/blob/master/String/StringToInt(atoi).md)    
